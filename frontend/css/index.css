@@ -1,3 +1,23 @@
+/*element selector(all occurances of that tag)*/
 h1{
     color: red;
+    font-weight: 10000;
+}
+/* for a particular sentence, and not all occurances of that tag, we use id as selector, and start it with # in css*/
+#second-heading{
+    color: blue;
+}
+/* for a class(grp of elems, we use . in css, and it can be used for multiple occurances of that class */
+.heading{
+    color: green;
+}
+
+.para{
+    border: 2px;
+    border-style: solid;
+    padding: 20px; /* padding is the space between the border and the text inside the box */
+    border-color: black;
+    color: purple;
+    font-weight: 10000;
+    text-align: center;
 }
