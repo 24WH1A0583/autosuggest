@@ -21,3 +21,33 @@ h1{
     font-weight: 10000;
     text-align: center;
 }
+
+.nav{
+    border:5px;
+    border-style:solid;
+    padding:15px;
+    border-color: black;
+    background-color: lightblue;
+    text-align: center;
+    /*gap:20px;
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: space-between;*/
+}
+
+.nav a{
+    text-decoration: none; /* to remove the underline from the links */
+    color: black;
+    font-weight: 10000;
+    padding: 15px;
+}
+
+.nav a:hover{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+
+body{
+    margin: 0px;
+}
