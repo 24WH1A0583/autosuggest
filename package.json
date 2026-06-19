@@ -1,0 +1,23 @@
+{
+  "name": "autosuggest",
+  "version": "1.0.0",
+  "description": "Verifying my git set-up : ) Hi!! changes flow for pushing into github: 1. add(plus button)(after saving) 2. commit with message 3. push/ sync",
+  "homepage": "https://github.com/24WH1A0583/autosuggest#readme",
+  "bugs": {
+    "url": "https://github.com/24WH1A0583/autosuggest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/24WH1A0583/autosuggest.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
