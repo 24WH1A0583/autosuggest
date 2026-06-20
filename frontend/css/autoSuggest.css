@@ -28,3 +28,22 @@ gear{
     position:relative;
     left: 30px;
 }
+
+.suggestions{
+    
+    width: 200px;
+    margin: 10px auto;
+    text-align: left;
+    
+}
+.suggestions div{
+    background: white;
+    padding: 10px;
+    border: 1px solid rgb(173, 155, 155);
+    margin-bottom:1px;
+    cursor: pointer;
+}
+.suggestions div:hover{
+    background-color: lightgrey;
+    border: 1px solid black;
+}
