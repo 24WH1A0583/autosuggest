@@ -73,3 +73,14 @@ body{
     font-weight: 10000;
     cursor: pointer;
 }
+
+#Autohead{
+    color: black;
+    text-align: center;
+    font-weight: 10000;
+}
+.status{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
